@@ -35,5 +35,4 @@ for i in prospects:
     if is_circular:
         circulars.append(i)
 
-
 print(len(circulars))

@@ -11,6 +11,6 @@ squareOfSum = 0
 
 for i in range(1, 101):
     squareOfSum += i
-squareOfSum = squareOfSum ** 2
+squareOfSum = squareOfSum**2
 
-print(squareOfSum-sumOfSquares)
+print(squareOfSum - sumOfSquares)

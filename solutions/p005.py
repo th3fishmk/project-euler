@@ -20,7 +20,7 @@ def find_prime_divisors(num):
 
 smallest = 1
 for i in range(1, 21):
-    if (smallest % i == 0):
+    if smallest % i == 0:
         pass
     elif i in prime_numbers:
         smallest = smallest * i
@@ -28,7 +28,7 @@ for i in range(1, 21):
         divs = find_prime_divisors(i)
         divisible = False
         for div in divs:
-            smallest = smallest*div
+            smallest = smallest * div
             if smallest % i == 0:
                 break
 
