@@ -10,7 +10,7 @@ This is my personal attempt to solve this problems, although I am sure I will no
 
 ## Toolset
 
-I'll be using python, vscode, by browser, and of course my brain, no AI btw
+I'll be using rust, vscode, by browser, and of course my brain, no AI btw
 
 ## Add me if you want
 

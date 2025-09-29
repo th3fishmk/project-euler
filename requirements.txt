@@ -1,3 +1,0 @@
-# Python requirement file
-numpy
-sympy
