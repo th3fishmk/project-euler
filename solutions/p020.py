@@ -2,7 +2,6 @@
 # Factorial Digit Sum
 import math
 
-
 factorial = list(str(math.factorial(100)))
 sum = 0
 for i in factorial:

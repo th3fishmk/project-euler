@@ -1,10 +1,9 @@
 # Problem 007
 # 10 001st prime
 
+from sympy import isprime
 
-from sympy import *
-
-primes = []
+primes: list[int] = []
 last_number = 2
 
 while len(primes) < 10_001:

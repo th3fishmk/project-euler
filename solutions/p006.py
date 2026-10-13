@@ -1,7 +1,6 @@
 # Problem 006
 # Sum square difference
 
-
 sumOfSquares = 0
 
 for i in range(1, 101):

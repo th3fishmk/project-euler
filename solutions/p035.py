@@ -1,4 +1,5 @@
 import sympy
+
 # Problem 35
 # circular primes
 

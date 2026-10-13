@@ -12,6 +12,19 @@ This is my personal attempt to solve this problems, although I am sure I will no
 
 I'll be using python, vscode, by browser, and of course my brain, no AI btw
 
+To create and activate the venv run:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+to install the requirements, run the following command _after activating the env_
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Add me if you want
 
 Here is my friend code:
